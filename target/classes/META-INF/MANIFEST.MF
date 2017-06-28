@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring-web-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sping-boot-group
+Build-Jdk: 1.7.0_21
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/spring-web-d
+ emo/
+
